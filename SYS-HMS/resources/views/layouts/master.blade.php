@@ -234,7 +234,7 @@ use App\Http\Controllers\Login_Controllers\HomeController;
                              <li class=""><a href=""><i class="fa fa-angle-double-right"></i> SMS Setting</a></li>
                         </ul>
                     </li>
-      
+
     </ul>
 <!--============********Sider bar Menu with Dropdwon*****================ -->
     </section>
