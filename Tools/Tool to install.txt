@@ -1,3 +1,0 @@
-install composer
-Laravel Framework 8.6.0
-XAMPP (make our computer as server to run)
